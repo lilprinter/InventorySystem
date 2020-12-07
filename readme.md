@@ -14,7 +14,7 @@
 <ul> 
 <li>Open a browser and go to URL [phpMyAdmin](http://localhost/phpmyadmin/)
 <li>Then, click on the databases tab<br>
-<li>Create database naming “ db_inventory ” and then click on the Import tab<br>
-<li>Click on browse file and select “db_inventory.sql” file which is inside <strong>Database (MySQL)</strong> folder<br>
+<li>Create database naming <strong>db_inventory</strong> and then click on the Import tab<br>
+<li>Click on browse file and select <strong>db_inventory.sql</strong> file which is inside <strong>Database (MySQL)</strong> folder<br>
 <li>Click on go.<br>
 </ul>
